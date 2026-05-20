@@ -36,10 +36,12 @@ Sou um desenvolvedor focado no ecossistema Front-End, unindo minha experiência 
 
 ### 📊 Meus Status no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeyfellipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfellipe&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joeyfellipe&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfellipe&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ---
 
