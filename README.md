@@ -8,8 +8,7 @@ Sou um desenvolvedor focado no ecossistema Front-End, unindo minha experiência 
 
 ### 💻 O que estou construindo
 
-- 🚀 Desenvolvendo o **Velotiza.ia** (anteriormente FlowOS), uma aplicação focada em produtividade.
-- 🎵 Criando um sistema multimídia web para projeção de lyrics utilizando IA para gerar fundos animados.
+- 🚀 Desenvolvendo o **Velotiza.ia** (anteriormente FlowOS), uma aplicação focada em produtividade. Confira o design e os bastidores no Instagram: [@velotiza](https://www.instagram.com/velotiza).
 - 🎓 Aprofundando meus conhecimentos na stack **Next.js 15, Tailwind CSS e Supabase**.
 
 ---
@@ -24,10 +23,14 @@ Sou um desenvolvedor focado no ecossistema Front-End, unindo minha experiência 
 
 **Design & UI/UX:**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-00A86B?style=for-the-badge&logoColor=white)
 
 **OS & Tools:**
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ---
 
@@ -42,5 +45,5 @@ Sou um desenvolvedor focado no ecossistema Front-End, unindo minha experiência 
 
 ### 📫 Como me encontrar
 
-- **Email:** [Insira seu email aqui, ex: contato@email.com]
-- **LinkedIn:** [Insira o link do seu LinkedIn]
+- **Email:** [joeyfellipe07@gmail.com](mailto:joeyfellipe07@gmail.com)
+- **LinkedIn:** [linkedin.com/in/joeyfellipe](https://www.linkedin.com/in/joeyfellipe)
