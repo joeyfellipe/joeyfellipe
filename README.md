@@ -34,17 +34,6 @@ Sou um desenvolvedor focado no ecossistema Front-End, unindo minha experiência 
 
 ---
 
-### 📊 Meus Status no GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joeyfellipe&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfellipe&layout=compact&theme=tokyonight" />
-</p>
-
----
-
----
-
 ### 📫 Como me encontrar
 
 - **Email:** [joeyfellipe07@gmail.com](mailto:joeyfellipe07@gmail.com)
